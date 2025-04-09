@@ -1,323 +1,178 @@
-# Plano Alimentar para Perda de Gordura e Construção de Massa Muscular
-**Objetivo:** Perda de gordura como prioridade, com preservação e ganho de massa muscular
-
-## Dados do Cliente
-- **Idade:** 21 anos
-- **Sexo:** Masculino
-- **Peso:** 102kg
-- **Altura:** 189cm
-- **IMC atual:** 28,5 (sobrepeso leve)
-- **Atividade física:** Treino de força 5x/semana (fase inicial) + cardio
-
-## Cálculo Energético
-- **Metabolismo basal (TMB):** ~2.100-2.200 kcal/dia
-- **Fator de atividade:** 1.4-1.5 (atividade moderada, fase inicial de treinos)
-- **Gasto calórico total estimado:** ~2.900-3.000 kcal/dia
-- **Ingestão calórica recomendada:** 2.500 kcal/dia (déficit moderado para perda de gordura)
-
-## Distribuição de Macronutrientes
-- **Proteínas:** 200g (~1.9-2.0g/kg) - 800 kcal (32%)
-- **Carboidratos:** 250g (~2.5g/kg) - 1.000 kcal (40%)
-- **Gorduras:** 78g (~0.7g/kg) - 700 kcal (28%)
-
-## Plano Alimentar Diário (2.500 kcal)
-
-### Café da Manhã (7h-8h) - ~600 kcal
-- 3 ovos inteiros mexidos ou omelete (preparar com mínimo de óleo)
-- 80g de aveia em flocos (preparar como mingau ou em vitamina)
-- 1 fruta média (banana, maçã ou 200g de frutas vermelhas)
-- 150ml de leite desnatado ou bebida vegetal sem açúcar
-- Café preto ou chá verde sem açúcar (opcional)
-
-**Opções de substituição:**
-- Ovos → 180g de iogurte grego + 25g de whey protein
-- Aveia → 2 fatias de pão integral + 1 colher de chá de manteiga de amendoim
-- Fruta → alternar entre as opções disponíveis para variedade nutricional
-
-### Almoço (12h-13h) - ~750 kcal
-- 180g de proteína (frango, carne vermelha magra, peixe)
-- 120g de arroz integral ou 120g de batata doce/mandioca/inhame (peso cozido)
-- 200g de legumes variados (preparo: vapor, grelhados ou assados)
-- Salada verde à vontade (mínimo 80g)
-- 1 colher de chá de azeite de oliva extra virgem para temperar
-
-**Opções de substituição:**
-- Proteína → alternar entre as fontes (frango, peixe, carne magra)
-- Carboidratos → alternar entre arroz integral, batata doce, quinoa, mandioca
-- Vegetais → variar cores e tipos diariamente
-
-### Pós-treino (16h-17h) - ~500 kcal
-- 30g de whey protein (1 scoop) em 250ml de água
-- 1 banana média
-- 30g de granola sem açúcar ou aveia
-- 10g de mel ou 15g de pasta de amendoim natural
-
-**Opções de substituição:**
-- Whey → 4 claras de ovo + 1 gema
-- Banana → 1 maçã ou 200g de abacaxi
-- Granola → 30g de tapioca
-
-### Jantar (19h-20h) - ~650 kcal
-- 150g de proteína (peixe, frango, carne magra, tofu)
-- 80g de leguminosas (feijão, lentilha, grão de bico) - peso cozido
-- Legumes variados à vontade (mínimo 200g)
-- 80g de carboidrato de baixo índice glicêmico (batata doce, arroz integral)
-- 1 colher de chá de azeite para preparo/tempero
-
-**Opções de substituição:**
-- Proteína → ovo, whey protein, proteína vegetal texturizada
-- Leguminosas → quinoa
-- Carboidrato → inhame, mandioca, abóbora
-
-## Hidratação
-- **Volume mínimo:** 4 litros de água por dia
-- Distribuir ao longo do dia (meta de 500ml a cada 2-3 horas)
-- Aumentar a ingestão em dias de treino (+500ml antes e depois do treino)
-- Opções: água, chás sem açúcar, água com limão (sem adoçar)
-
-## Suplementação Recomendada
-1. **Whey Protein:** 30g pós-treino e quando necessário para atingir meta proteica diária
-   - *Função:* Recuperação muscular e complementação proteica
-   - *Dosagem:* 1-2 scoops diários (30-60g)
-
-2. **Creatina:** 5g diários
-   - *Função:* Melhora performance, força e preservação muscular durante déficit calórico
-   - *Dosagem:* 5g diários, todos os dias (não precisa de ciclo ou loading)
-
-3. **Multivitamínico:** 1 cápsula/dia
-   - *Função:* Segurança nutricional durante restrição calórica
-   - *Dosagem:* Conforme recomendação do fabricante (geralmente 1 cápsula)
-
-4. **Ômega 3:** 1-2g por dia
-   - *Função:* Redução da inflamação e melhora da sensibilidade à insulina
-   - *Dosagem:* 1-2g de EPA+DHA combinados
-
-5. **Cafeína (opcional):** 200-300mg pré-treino
-   - *Função:* Aumento de energia e desempenho
-   - *Dosagem:* 200-300mg 30 minutos antes do treino
-
-## Estratégias para Sucesso
-1. **Preparação de refeições:**
-   - Reserve 2-3 horas por semana para preparar alimentos com antecedência
-   - Cozinhe proteínas e carboidratos em maior quantidade para 2-3 dias
-   - Prepare marmitas identificadas para facilitar a adesão
-
-2. **Consistência:**
-   - Mantenha o plano mesmo em finais de semana (flexibilize no máximo 20% das refeições)
-   - Programe refeições livres (1 por semana) sem exageros para manter a sanidade mental
-
-3. **Monitoramento:**
-   - Registre suas refeições em um aplicativo (MyFitnessPal, FatSecret)
-   - Anote sensações de fome, energia e disposição para treinos
-   - Tire fotos semanais para acompanhamento visual
-
-4. **Dicas para manter a motivação:**
-   - Estabeleça metas de curto prazo (2-4 semanas)
-   - Celebre pequenas vitórias (ex: completar 7 dias seguindo o plano)
-   - Encontre um parceiro de treino ou alimentação para responsabilidade mútua
-   - Lembre-se que resultados sustentáveis levam tempo (12-16 semanas para mudanças significativas)
-
-## Acompanhamento e Ajustes
-- **Frequência de avaliação:** A cada 15 dias nas primeiras 8 semanas, depois mensalmente
-- **Métricas de progresso:**
-  * Peso corporal (medição 2-3x por semana, mesmo horário, após acordar e ir ao banheiro)
-  * Circunferências corporais (braço, cintura, quadril, coxa) - mensal
-  * Percentual de gordura (bioimpedância ou dobras cutâneas) - mensal
-  * Força nos exercícios principais (acompanhar evolução semanal)
-  * Fotos comparativas (mesma luz, posição e horário, a cada 30 dias)
-  * Ajustes no plano alimentar: a cada 3-4 semanas ou quando o progresso estagnar
+# Plano Alimentar de 2400 Calorias
+
+Elaborado para um homem de 21 anos, 189cm, 100kg com foco em perda de gordura, manutenção de massa muscular e melhora de pré-hipertensão e gordura hepática.
+
+## Distribuição Calórica e Macronutrientes
+
+- **Proteínas:** 40% (960 calorias) = 240g
+- **Carboidratos:** 35% (840 calorias) = 210g
+- **Gorduras:** 25% (600 calorias) = 67g
+
+## PLANO PARA DIAS DE TREINO (5 DIAS)
+
+### Café da Manhã (7h30) - ~500 calorias
+
+**Opção 1:**
+- 4 ovos mexidos (200g): 280 calorias, 24g proteína, 20g gordura, 0g carboidrato
+- 50g de aveia em flocos: 200 calorias, 7g proteína, 3g gordura, 33g carboidrato
+- 1 maçã média (150g): 80 calorias, 0g proteína, 0g gordura, 20g carboidrato
+- **Total:** 560 calorias, 31g proteína, 23g gordura, 53g carboidrato
+
+**Opção 2:**
+- 2 ovos mexidos (100g): 140 calorias, 12g proteína, 10g gordura, 0g carboidrato
+- Torrada integral (2 fatias, 50g): 130 calorias, 5g proteína, 2g gordura, 24g carboidrato
+- 30g de queijo cottage: 35 calorias, 6g proteína, 1g gordura, 1g carboidrato
+- 1 banana média (120g): 105 calorias, 1g proteína, 0g gordura, 27g carboidrato
+- **Total:** 410 calorias, 24g proteína, 13g gordura, 52g carboidrato
+
+### Almoço (12h) - ~700 calorias
+
+**Opção 1:**
+- 150g de peito de frango grelhado: 240 calorias, 45g proteína, 6g gordura, 0g carboidrato
+- 150g de arroz integral cozido: 165 calorias, 3g proteína, 1g gordura, 35g carboidrato
+- 150g de brócolis cozido: 45 calorias, 4g proteína, 0g gordura, 9g carboidrato
+- 1 colher de sopa de azeite (15g): 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 570 calorias, 52g proteína, 21g gordura, 44g carboidrato
+
+**Opção 2:**
+- 150g de patinho moído refogado: 255 calorias, 39g proteína, 11g gordura, 0g carboidrato
+- 200g de batata-doce assada: 180 calorias, 4g proteína, 0g gordura, 42g carboidrato
+- 200g de legumes salteados (cenoura, abobrinha): 70 calorias, 2g proteína, 0g gordura, 16g carboidrato
+- 1 colher de sopa de azeite (15g): 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 625 calorias, 45g proteína, 25g gordura, 58g carboidrato
+
+### Pós-treino (16h) - ~500 calorias
+
+**Opção 1:**
+- 30g de whey protein: 120 calorias, 24g proteína, 1g gordura, 2g carboidrato
+- 1 banana média (120g): 105 calorias, 1g proteína, 0g gordura, 27g carboidrato
+- 40g de pasta de amendoim: 240 calorias, 9g proteína, 20g gordura, 8g carboidrato
+- **Total:** 465 calorias, 34g proteína, 21g gordura, 37g carboidrato
+
+**Opção 2:**
+- 30g de whey protein: 120 calorias, 24g proteína, 1g gordura, 2g carboidrato
+- 200ml de leite desnatado: 70 calorias, 7g proteína, 0g gordura, 10g carboidrato
+- 30g de aveia em flocos: 120 calorias, 4g proteína, 2g gordura, 20g carboidrato
+- 1 fruta média (150g): 80 calorias, 0g proteína, 0g gordura, 20g carboidrato
+- **Total:** 390 calorias, 35g proteína, 3g gordura, 52g carboidrato
+
+### Jantar (19h30) - ~700 calorias
+
+**Opção 1:**
+- 130g de atum em lata (escorrido): 170 calorias, 39g proteína, 1g gordura, 0g carboidrato
+- 120g de quinoa cozida: 170 calorias, 6g proteína, 2g gordura, 31g carboidrato
+- 200g de legumes cozidos (cenoura, vagem): 70 calorias, 3g proteína, 0g gordura, 16g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 530 calorias, 48g proteína, 17g gordura, 47g carboidrato
+
+**Opção 2:**
+- 150g de peito de frango grelhado: 240 calorias, 45g proteína, 6g gordura, 0g carboidrato
+- 150g de arroz integral cozido: 165 calorias, 3g proteína, 1g gordura, 35g carboidrato
+- 200g de abobrinha refogada: 34 calorias, 3g proteína, 0g gordura, 6g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 559 calorias, 51g proteína, 21g gordura, 41g carboidrato
+
+**Total diário aproximado (dias de treino):** 2400 calorias, 165-170g proteína, 70-85g gordura, 180-190g carboidrato
+
+## PLANO PARA DIAS DE DESCANSO (2 DIAS)
+
+### Café da Manhã (7h30) - ~450 calorias
+
+**Opção 1:**
+- 3 ovos mexidos (150g): 210 calorias, 18g proteína, 15g gordura, 0g carboidrato
+- 40g de aveia em flocos: 160 calorias, 5g proteína, 3g gordura, 27g carboidrato
+- 1 maçã média (150g): 80 calorias, 0g proteína, 0g gordura, 20g carboidrato
+- **Total:** 450 calorias, 23g proteína, 18g gordura, 47g carboidrato
+
+**Opção 2:**
+- 150g de iogurte grego natural: 150 calorias, 15g proteína, 8g gordura, 6g carboidrato
+- 30g de granola sem açúcar: 130 calorias, 4g proteína, 6g gordura, 15g carboidrato
+- 1 banana média (120g): 105 calorias, 1g proteína, 0g gordura, 27g carboidrato
+- 15g de mel: 45 calorias, 0g proteína, 0g gordura, 12g carboidrato
+- **Total:** 430 calorias, 20g proteína, 14g gordura, 60g carboidrato
+
+### Almoço (12h) - ~700 calorias
+
+**Opção 1:**
+- 150g de peito de frango grelhado: 240 calorias, 45g proteína, 6g gordura, 0g carboidrato
+- 130g de batata-doce assada: 117 calorias, 2g proteína, 0g gordura, 27g carboidrato
+- 200g de brócolis cozido: 60 calorias, 6g proteína, 0g gordura, 12g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 537 calorias, 53g proteína, 20g gordura, 39g carboidrato
 
-## Resultados Esperados
-Com este plano ajustado e sua rotina de treinos, você pode esperar:
-- Perda de 0.5-0.8kg de gordura por semana (2-3kg por mês)
-- Manutenção ou leve ganho de massa muscular (especialmente por estar retornando aos treinos)
-- Melhora nos níveis de energia e performance gradual nos treinos
-- Melhora na composição corporal visível em 8-12 semanas
-- Perda de 8-10kg em 3-4 meses, majoritariamente de gordura
+**Opção 2:**
+- 150g de patinho moído refogado: 255 calorias, 39g proteína, 11g gordura, 0g carboidrato
+- 120g de arroz integral cozido: 132 calorias, 3g proteína, 1g gordura, 28g carboidrato
+- 200g de legumes (cenoura, abobrinha): 70 calorias, 2g proteína, 0g gordura, 16g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 577 calorias, 44g proteína, 26g gordura, 44g carboidrato
 
-## Considerações Adicionais
-1. À medida que progredir nos treinos e aumentar as cargas, seu gasto calórico aumentará naturalmente, podendo ser necessário ajustar a ingestão para cima.
+### Lanche da Tarde (16h) - ~450 calorias
 
-2. Caso sinta fome excessiva ou queda de energia significativa, aumente gradualmente 100-200 kcal (preferencialmente de carboidratos nos dias de treino).
+**Opção 1:**
+- 30g de whey protein: 120 calorias, 24g proteína, 1g gordura, 2g carboidrato
+- 1 fruta média (150g): 80 calorias, 0g proteína, 0g gordura, 20g carboidrato
+- 20g de castanhas: 120 calorias, 4g proteína, 10g gordura, 4g carboidrato
+- **Total:** 320 calorias, 28g proteína, 11g gordura, 26g carboidrato
 
-3. Lembre-se que o sono adequado (7-9 horas) e manejo do estresse são fatores cruciais para o sucesso do seu plano alimentar e treinos.
+**Opção 2:**
+- 2 ovos cozidos (100g): 140 calorias, 12g proteína, 10g gordura, 0g carboidrato
+- 1 fatia de pão integral (25g): 65 calorias, 3g proteína, 1g gordura, 12g carboidrato
+- 1 fruta média (150g): 80 calorias, 0g proteína, 0g gordura, 20g carboidrato
+- **Total:** 285 calorias, 15g proteína, 11g gordura, 32g carboidrato
 
-Compras Semanais (7 dias)
-Proteínas
+### Jantar (19h30) - ~700 calorias
 
-Frango: 1,8kg (peito sem pele)
-Carne vermelha magra (patinho): 1,2kg
-Peixe (tilápia, merluza ou salmão): 900g
-Ovos: 30 unidades (2,5 dúzias)
-Whey Protein: 210g (7 porções de 30g)
-Iogurte grego natural: 500g (para variações)
+**Opção 1:**
+- 130g de atum em lata (escorrido): 170 calorias, 39g proteína, 1g gordura, 0g carboidrato
+- 100g de quinoa cozida: 140 calorias, 5g proteína, 2g gordura, 26g carboidrato
+- 250g de legumes (mix de folhas, tomate): 75 calorias, 5g proteína, 0g gordura, 15g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 505 calorias, 49g proteína, 17g gordura, 41g carboidrato
 
-Carboidratos
+**Opção 2:**
+- 150g de peito de frango grelhado: 240 calorias, 45g proteína, 6g gordura, 0g carboidrato
+- 100g de batata-doce assada: 90 calorias, 2g proteína, 0g gordura, 21g carboidrato
+- 200g de legumes (mix de folhas, tomate, cebola): 60 calorias, 3g proteína, 0g gordura, 12g carboidrato
+- 15g de azeite: 120 calorias, 0g proteína, 14g gordura, 0g carboidrato
+- **Total:** 510 calorias, 50g proteína, 20g gordura, 33g carboidrato
 
-Arroz integral: 1kg
-Batata doce: 1kg
-Aveia em flocos: 700g
-Quinoa: 300g (para variações)
-Feijão/lentilha/grão de bico: 500g (peso seco)
-Tapioca: 200g (para variações)
-Pão integral: 1 pacote (para variações)
+**Total diário aproximado (dias de descanso):** 2200-2300 calorias, 150-165g proteína, 65-75g gordura, 160-180g carboidrato
 
-Frutas
+## Dicas para Melhorar a Pré-Hipertensão e Gordura Hepática:
 
-Bananas: 12 unidades (7 para pós-treino + extras)
-Maçãs: 7 unidades
-Frutas vermelhas: 500g (congeladas funcionam bem)
-Abacaxi: 1 unidade média (para variações)
+1. **Redução de Sódio:**
+   - Use ervas e especiarias no lugar do sal
+   - Evite alimentos processados
+   - Prefira temperos naturais: alho, cebola, limão, ervas frescas
 
-Vegetais e Verduras
+2. **Controle de Gordura Saturada:**
+   - Remova a gordura visível das carnes
+   - Prefira métodos de cozimento como grelhar, assar e cozinhar a vapor
+   - Evite frituras
 
-Mix de folhas verdes: 500g
-Brócolis: 500g
-Cenoura: 500g
-Abobrinha: 500g
-Pimentão: 3 unidades
-Tomates: 7 unidades
-Pepino: 3 unidades
-Cebola: 500g
-Alho: 1 cabeça
+3. **Aumento de Alimentos Protetores:**
+   - Inclua alimentos ricos em potássio: banana, batata-doce, abacate
+   - Consuma alimentos ricos em fibras: grãos integrais, vegetais, frutas
+   - Priorize gorduras saudáveis: azeite, castanhas, abacate
 
-Gorduras Saudáveis
+4. **Hidratação:**
+   - Consuma pelo menos 3 litros de água por dia
+   - Evite bebidas alcoólicas e açucaradas
 
-Azeite extra virgem: 1 garrafa pequena
-Pasta de amendoim natural: 1 pote pequeno (250g)
-Castanhas/sementes variadas: 200g (para adição em saladas)
-Abacate: 2 unidades (para variações)
+5. **Estratégias Práticas:**
+   - Prepare as refeições com antecedência (meal prep)
+   - Mantenha porções adequadas usando medidas
+   - Mantenha um registro alimentar para acompanhar o progresso
 
-Outros Itens
+## Observações Importantes:
 
-Temperos naturais (limão, ervas frescas/secas, pimenta)
-Sal rosa ou marinho (uso moderado)
-Granola sem açúcar: 200g
-Mel: 1 pote pequeno (150g)
+1. Este plano foi calculado para um homem de 21 anos, 189cm e 100kg, com nível de atividade moderado a alto.
 
-Plano de Preparação (Domingo)
-Etapa 1: Proteínas (90 minutos)
+2. As quantidades de alimentos referem-se aos pesos dos alimentos prontos para consumo.
 
-Frango (900g):
+3. É importante consumir pelo menos 3 litros de água diariamente.
 
-Tempere 900g de peito de frango com sal, pimenta, alho e ervas
-Grelhe ou asse até dourar (cerca de 20-25 minutos a 180°C)
-Porções: 5 de 180g (para almoços)
+4. Ajuste as porções conforme necessário se perceber que está perdendo peso muito rapidamente (mais de 1kg por semana) ou se sentir muita fome.
 
-
-Patinho (600g):
-
-Corte o patinho em bifes ou cubos
-Tempere com alho, cebola, sal e pimenta
-Grelhe rapidamente ou asse (deixe ao ponto para não ressecar)
-Porções: 4 de 150g (para jantares)
-
-
-Peixe (450g):
-
-Prepare metade do peixe comprado
-Tempere com limão, ervas e azeite
-Asse ou grelhe
-Porções: 3 de 150g (para jantares)
-
-
-
-Etapa 2: Carboidratos (60 minutos)
-
-Arroz integral (500g cru):
-
-Cozinhe seguindo as instruções da embalagem
-Rende aproximadamente 1,5kg cozido
-Divida em 12 porções de 120g (almoços) e 6 porções de 80g (jantares)
-
-
-Batata doce (1kg):
-
-Cozinhe ou asse a batata doce
-Divida em 8 porções de 120g (para almoços)
-
-
-Feijão/lentilha (250g cru):
-
-Cozinhe seguindo as instruções da embalagem
-Rende aproximadamente 600g cozido
-Divida em 7 porções de 80g (para jantares)
-
-
-
-Etapa 3: Vegetais (40 minutos)
-
-Legumes para refeições quentes:
-
-Corte brócolis, cenoura, abobrinha e pimentão
-Cozinhe no vapor ou refogue levemente (deixe al dente)
-Divida em 14 porções de 200g (7 almoços + 7 jantares)
-
-
-Saladas:
-
-Lave e seque folhas verdes
-Armazene com papel toalha para absorver umidade
-Prepare outros vegetais para salada e armazene separadamente
-
-
-
-Etapa 4: Montagem e Armazenamento (30 minutos)
-
-Marmitas para almoço (7):
-
-180g de proteína (frango/patinho)
-120g de carboidrato (arroz/batata)
-200g de legumes variados
-Armazene salada separadamente
-
-
-Marmitas para jantar (7):
-
-150g de proteína (frango/peixe/patinho)
-80g de carboidrato (arroz/batata)
-80g de leguminosas
-200g de legumes variados
-
-
-Prepare porções individuais:
-
-Separe 7 porções de 80g de aveia para café da manhã
-Separe 7 saquinhos com 30g de granola/aveia para pós-treino
-
-
-
-Organização de Recipientes
-
-Café da manhã: Deixe ovos e frutas separados (preparar na hora)
-Almoço e jantar: Use recipientes com divisórias ou potes separados
-Pós-treino: Deixe whey separado em porções ou use o scoop na hora
-
-Armazenamento
-
-Geladeira: Armazene marmitas para 3-4 dias
-Freezer: Armazene marmitas para 4-7 dias (descongelar na geladeira na noite anterior)
-Dica: Etiquete os recipientes com data e tipo de refeição
-
-Itens para Preparar na Hora (5-10 minutos)
-
-Café da manhã:
-
-Ovos mexidos/omelete (3 ovos)
-Mingau de aveia (80g + 150ml de leite)
-
-
-Pós-treino:
-
-Shake de whey protein (30g + água + banana + complementos)
-
-
-
-Tempo Total de Preparação
-Aproximadamente 3,5 a 4 horas no domingo para preparar todas as refeições principais da semana.
-Dicas para Economizar Tempo
-
-Use uma panela de pressão elétrica ou air fryer para cozinhar múltiplos itens simultaneamente
-Prepare diferentes proteínas ao mesmo tempo no forno (em diferentes assadeiras)
-Enquanto os alimentos cozinham, prepare as porções e organize os recipientes
-Invista em recipientes de qualidade que possam ir do freezer ao micro-ondas
+5. Recomenda-se o acompanhamento de um nutricionista para ajustes personalizados conforme necessário.
